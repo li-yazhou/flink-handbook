@@ -26,6 +26,11 @@
 
 # Kafka
 
+## Kafka 官方文档
+* [Kafka Document](http://kafka.apache.org/documentation/)
+
+## Kafka 文章
+* [Kafka的零拷贝](https://mp.weixin.qq.com/s/vaKRVvfUnFjhHzfkwZDbKQ)
 
 ---
 
